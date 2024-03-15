@@ -1,7 +1,7 @@
 * {
-    font-family: Verdana, san-serif;
-    background-color: #DCF2F1;
-    color: #0F1035;
+    font-family: Helvetica, san-serif;
+    background-color: #F5F5F7;
+    color: #1D1D1F;
 }
 
 .flex-container {
@@ -13,7 +13,7 @@ h1 {
 }
 
 li {
-    color: #365486;
+    color: #969697;
     padding: 4px;
 }
 
