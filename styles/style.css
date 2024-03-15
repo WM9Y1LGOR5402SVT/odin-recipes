@@ -1,0 +1,15 @@
+* {
+    font-family: Verdana, san-serif;
+    background-color: #333333;
+    color: #cccccc;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    padding: 4px;
+}
