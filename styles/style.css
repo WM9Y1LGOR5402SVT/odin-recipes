@@ -1,9 +1,11 @@
 * {
     font-family: Verdana, san-serif;
-    background-color: #333333;
-    color: #cccccc;
-    margin-left: 70px;
-    margin-right: 70px;
+    background-color: #DCF2F1;
+    color: #0F1035;
+}
+
+.flex-container {
+    display: flex;
 }
 
 h1 {
@@ -11,5 +13,18 @@ h1 {
 }
 
 li {
+    color: #365486;
     padding: 4px;
+}
+
+.flex-container > .panel-center {
+    flex: 4;
+}
+
+.flex-container > .panel-left {
+    flex: 1;
+}
+
+.flex-container > .panel-right {
+    flex: 1;
 }
